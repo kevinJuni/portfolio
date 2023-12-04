@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.a91ff5d9.css",
-    "main.js": "/portfolio/static/js/main.92caca9d.js",
+    "main.js": "/portfolio/static/js/main.a48cf0d3.js",
     "static/media/lol.png": "/portfolio/static/media/lol.08368463cfc36f2fedbc.png",
     "static/media/Sunflower-Medium.ttf": "/portfolio/static/media/Sunflower-Medium.e76a775371fbf8a35896.ttf",
     "static/media/star.png": "/portfolio/static/media/star.615134a42414e769d3c4.png",
@@ -12,12 +12,13 @@
     "static/media/react.png": "/portfolio/static/media/react.24fd5420ce091b83c084.png",
     "static/media/jquery.png": "/portfolio/static/media/jquery.ee2cb41dce8e71fbab5f.png",
     "static/media/java.png": "/portfolio/static/media/java.0a4eb06fed741dc78ea0.png",
+    "static/media/kgb.jpeg": "/portfolio/static/media/kgb.c38d2ff8a9066c72ed61.jpeg",
     "index.html": "/portfolio/index.html",
     "main.a91ff5d9.css.map": "/portfolio/static/css/main.a91ff5d9.css.map",
-    "main.92caca9d.js.map": "/portfolio/static/js/main.92caca9d.js.map"
+    "main.a48cf0d3.js.map": "/portfolio/static/js/main.a48cf0d3.js.map"
   },
   "entrypoints": [
     "static/css/main.a91ff5d9.css",
-    "static/js/main.92caca9d.js"
+    "static/js/main.a48cf0d3.js"
   ]
 }
