@@ -1,13 +1,19 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.a91ff5d9.css",
-    "main.js": "/portfolio/static/js/main.a48cf0d3.js",
+    "main.js": "/portfolio/static/js/main.7ff6614d.js",
+    "static/media/back.png": "/portfolio/static/media/back.8ff62663918bb11da473.png",
+    "static/media/dahea.png": "/portfolio/static/media/dahea.4ea9cd8460cfca75e85f.png",
+    "static/media/kkot.png": "/portfolio/static/media/kkot.d03246d051bcb58b05eb.png",
+    "static/media/sns.png": "/portfolio/static/media/sns.86245c7c614a91bbd07f.png",
     "static/media/lol.png": "/portfolio/static/media/lol.08368463cfc36f2fedbc.png",
+    "static/media/tobe.png": "/portfolio/static/media/tobe.2a2f32ca5d18d89be811.png",
     "static/media/Sunflower-Medium.ttf": "/portfolio/static/media/Sunflower-Medium.e76a775371fbf8a35896.ttf",
     "static/media/star.png": "/portfolio/static/media/star.615134a42414e769d3c4.png",
     "static/media/friends.png": "/portfolio/static/media/friends.8fc8e33f308dc7c63f0e.png",
     "static/media/me.jpg": "/portfolio/static/media/me.cb3b0d1e32cbb8139b32.jpg",
     "static/media/samsung.png": "/portfolio/static/media/samsung.0e4e8a08fe7f5ceff4e5.png",
+    "static/media/back2.png": "/portfolio/static/media/back2.b8046eb0585b0d7c2e79.png",
     "static/media/KdamThmorPro-Regular.ttf": "/portfolio/static/media/KdamThmorPro-Regular.9831c26caf4750566290.ttf",
     "static/media/react.png": "/portfolio/static/media/react.24fd5420ce091b83c084.png",
     "static/media/jquery.png": "/portfolio/static/media/jquery.ee2cb41dce8e71fbab5f.png",
@@ -15,10 +21,10 @@
     "static/media/kgb.jpeg": "/portfolio/static/media/kgb.c38d2ff8a9066c72ed61.jpeg",
     "index.html": "/portfolio/index.html",
     "main.a91ff5d9.css.map": "/portfolio/static/css/main.a91ff5d9.css.map",
-    "main.a48cf0d3.js.map": "/portfolio/static/js/main.a48cf0d3.js.map"
+    "main.7ff6614d.js.map": "/portfolio/static/js/main.7ff6614d.js.map"
   },
   "entrypoints": [
     "static/css/main.a91ff5d9.css",
-    "static/js/main.a48cf0d3.js"
+    "static/js/main.7ff6614d.js"
   ]
 }
